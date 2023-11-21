@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\39351\\Desktop\\wallet-multisig-rainbokit-hardhat-\\with-create-react-app\\contracts\\WalletMultisig.sol": {
+      "lastModificationDate": 1698086572669,
+      "contentHash": "5750348d3efe15c316779ad9d790d9cb",
+      "sourceName": "contracts/WalletMultisig.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "WalletMultisig"
+      ]
+    }
+  }
+}
